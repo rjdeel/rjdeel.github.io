@@ -8,27 +8,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Robert Deel
+    tagline: Senior Developer Support Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: contact@rdeel.tech
+    phone: 214 938 2787
+    timezone: America/Central Time
+    citizenship: US Citizen
+    website: comingsoon.rdeel.tech #do not add http://
+    linkedin: linkedin.com/in/robert-deel/
+    xing: 
+    github: rjdeel
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    twitter: 
+    stack-overflow: 22505110/rdeel
+    codewars: # codewars.com/users/rdeel
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -36,11 +36,8 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
-          level: Professional
+          level: Basic
 
     interests:
       title: Interests
